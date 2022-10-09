@@ -1,11 +1,11 @@
-<h1 align="center">Mohammad JahanBakhsh</h1>
-<h3 align="center">Software Developer</h3>
+<h1>Mohammad JahanBakhsh</h1>
+<h3>Software Developer</h3>
 
 - Tehran - Iran
 - mehmedjahanbakhsh@gmail.com
 - www.linkedin.com/in/mjahanbakhsh
 
-<h2 align="center">SKILLS</h2>
+<h2>SKILLS</h2>
 
 - Front End: React, Redux, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Material-UI, Responsive Web Design
 - Mobile: React Native, Java, XML, Firebase, Restfull API
@@ -13,7 +13,7 @@
 - Testing: Jest
 - CI Tools: Gitlab CI/CD, Jenkins
 
-<h2 align="center">EXPERIENCE</h2>
+<h2>EXPERIENCE</h2>
 
 <h4>Software Developer</h4> Danesh Solutions
 
@@ -39,7 +39,7 @@ applications in Gitlab CI/CD.
 - Implemented features for various applications in Java.
 - Used android studio to create an android application, allowing users to listen to and buy beats.
 
-<h2 align="center">EDUCATION</h2>
+<h2>EDUCATION</h2>
 
 <h4>Master of Science in Software Engineering</h4>
 Sharif University of technology  2020 – 2022
