@@ -17,5 +17,3 @@ I am currently pursuing my Master's degree in Software Engineering at the Sharif
 • Tesing Tools: Cypress, Jest, React Testing Library
 
 • CI/CD: Git, Gitlab CI/CD, Docker, Jenkins
-
-![](https://komarev.com/ghpvc/?username=MohammadJB&color=blue)
