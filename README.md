@@ -18,3 +18,4 @@ I am currently pursuing my Master's degree in Software Engineering at the Sharif
 
 • CI/CD: Git, Gitlab CI/CD, Docker, Jenkins
 
+![](https://komarev.com/ghpvc/?username=MohammadJB&color=blue)
