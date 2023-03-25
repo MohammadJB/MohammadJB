@@ -5,7 +5,16 @@ I am currently pursuing my Master's degree in Software Engineering at the Sharif
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjahanbakhsh/)
+<p align="left">
+<a href="https://www.linkedin.com/in/mjahanbakhsh/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mjahanbakhsh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17401118/mohammad-jahan-bakhsh" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-jahan-bakhsh" height="30" width="40" /></a>
+<a href="https://dev.to/mohammadjb" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohammadjb" height="30" width="40" /></a> 
+<a href="https://mehmedjahanbakhsh@gmail.com" target="blank">
+  <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="mehmedjahanbakhsh" height="30" width="40" /></a>
+</p>
 
 ## 🛠 Skills
 • Languages: TypeScript, JavaScript, CSS, HTML, Java, XML
@@ -17,3 +26,12 @@ I am currently pursuing my Master's degree in Software Engineering at the Sharif
 • Tesing Tools: Cypress, Jest, React Testing Library
 
 • CI/CD: Git, Gitlab CI/CD, Docker, Jenkins
+
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MohammadJB&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohammadJB&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadJB&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MohammadJB&theme=radical&no-frame=true&no-bg=false&margin-w=4)
