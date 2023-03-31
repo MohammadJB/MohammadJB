@@ -29,9 +29,9 @@ I am currently pursuing my Master's degree in Software Engineering at the Sharif
 
 
 ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadJB&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=MohammadJB&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohammadJB&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadJB&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohammadJB&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohammadJB&theme=radical&no-frame=true&no-bg=false&margin-w=4)
