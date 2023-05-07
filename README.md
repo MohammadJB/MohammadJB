@@ -19,7 +19,7 @@ I am currently pursuing my Master's degree in Software Engineering at the Sharif
 ## 🛠 Skills
 • Languages: TypeScript, JavaScript, CSS, HTML, Java, XML
 
-• Libraries: React, React Native, Redux
+• Libraries: Next, React, React Native, Redux
 
 • Development Tools: Webpack, Babel, NPM, Yarn
 
