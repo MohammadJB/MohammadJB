@@ -1,7 +1,7 @@
 
 # Hi, I'm Mohammad JahanBakhsh! 👋
 
-I am currently pursuing my Master's degree in Software Engineering at the Sharif University of Technology, Iran's leading institution for science, technology, engineering, and mathematics fields. In addition, I am a self-taught software developer with more than 2 years of experience in developing complex, optimized, and rich UI web applications with modern technologies and stacks.
+I am currently pursuing my Master's degree in Software Engineering at the Sharif University of Technology, Iran's leading institution for science, technology, engineering, and mathematics fields. In addition, I am a self-taught software developer with more than 3 years of experience in developing complex, optimized, and rich UI web applications with modern technologies and stacks.
 
 
 ## 🔗 Links
